@@ -1,0 +1,24 @@
+﻿生成启动时间为 2017/10/27 10:42:15。
+     1>项目“C:\Users\JoeCheung\Downloads\毕设\Code\VS edition\face_official_1024\face_official_1024\face_official\face_official\face_official.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\main.cpp
+         main.cpp
+     1>c:\users\joecheung\downloads\毕设\code\vs edition\face_official_1024\face_official_1024\face_official\main.cpp(152): warning C4101: “e”: 未引用的局部变量
+     1>c:\users\joecheung\downloads\毕设\code\vs edition\face_official_1024\face_official_1024\face_official\main.cpp(164): warning C4101: “e”: 未引用的局部变量
+     1>c:\users\joecheung\downloads\毕设\code\vs edition\face_official_1024\face_official_1024\face_official\main.cpp(176): warning C4101: “e”: 未引用的局部变量
+     1>c:\users\joecheung\downloads\毕设\code\vs edition\face_official_1024\face_official_1024\face_official\main.cpp(193): warning C4101: “e”: 未引用的局部变量
+     1>c:\users\joecheung\downloads\毕设\code\vs edition\face_official_1024\face_official_1024\face_official\main.cpp(284): warning C4101: “category”: 未引用的局部变量
+     1>c:\users\joecheung\downloads\毕设\code\vs edition\face_official_1024\face_official_1024\face_official\main.cpp(720): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\joecheung\downloads\毕设\code\vs edition\face_official_1024\face_official_1024\face_official\main.cpp(639): warning C4101: “distance”: 未引用的局部变量
+       Link:
+         F:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\JoeCheung\Downloads\毕设\Code\VS edition\face_official_1024\face_official_1024\face_official\Debug\face_official.exe" /INCREMENTAL /NOLOGO opencv_ml2413d.lib opencv_calib3d2413d.lib opencv_contrib2413d.lib opencv_core2413d.lib opencv_features2d2413d.lib opencv_flann2413d.lib opencv_gpu2413d.lib opencv_highgui2413d.lib opencv_imgproc2413d.lib opencv_legacy2413d.lib opencv_objdetect2413d.lib opencv_ts2413d.lib opencv_video2413d.lib opencv_nonfree2413d.lib opencv_ocl2413d.lib opencv_photo2413d.lib opencv_stitching2413d.lib opencv_superres2413d.lib opencv_videostab2413d.lib opencv_objdetect2413.lib opencv_ts2413.lib opencv_video2413.lib opencv_nonfree2413.lib opencv_ocl2413.lib opencv_photo2413.lib opencv_stitching2413.lib opencv_superres2413.lib opencv_videostab2413.lib opencv_calib3d2413.lib opencv_contrib2413.lib opencv_core2413.lib opencv_features2d2413.lib opencv_flann2413.lib opencv_gpu2413.lib opencv_highgui2413.lib opencv_imgproc2413.lib opencv_legacy2413.lib opencv_ml2413.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\JoeCheung\Downloads\毕设\Code\VS edition\face_official_1024\face_official_1024\face_official\Debug\face_official.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\JoeCheung\Downloads\毕设\Code\VS edition\face_official_1024\face_official_1024\face_official\Debug\face_official.lib" /MACHINE:X86 Debug\detectObject.obj
+         Debug\ImageUtils_0.7.obj
+         Debug\main.obj
+         Debug\preprocessFace.obj
+         Debug\recognition.obj
+         face_official.vcxproj -> C:\Users\JoeCheung\Downloads\毕设\Code\VS edition\face_official_1024\face_official_1024\face_official\Debug\face_official.exe
+     1>已完成生成项目“C:\Users\JoeCheung\Downloads\毕设\Code\VS edition\face_official_1024\face_official_1024\face_official\face_official\face_official.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.48
